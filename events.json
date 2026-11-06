@@ -1,0 +1,506 @@
+{
+  "updated": "2026-11-07",
+  "events": [
+    {
+      "title": "Tāhae: Stolen from the Museum",
+      "start": "2026-10-28",
+      "end": "2026-11-18",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/tahae-stolen-from-the-museum/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": true,
+      "when": "28 Oct – 18 Nov 2026, 10am–5pm",
+      "where": "Tāwera – Your Art Space, Nelson",
+      "why": "An exhibition with a real idea about who owns and gets to touch cultural treasures, not just a pretty display.",
+      "tickets": "",
+      "listen": [],
+      "more": [],
+      "page": "events/6.html",
+      "category": "art",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Lisa Walker: That Furrows the Brow (artist talk 14 Nov)",
+      "start": "2026-10-31",
+      "end": "2027-01-24",
+      "place": "Nelson",
+      "url": "https://thesuter.org.nz/whats-on/",
+      "added": "2026-11-07",
+      "interested": false,
+      "closed": false,
+      "when": "31 Oct 2026 – 24 Jan 2027",
+      "where": "Nelson",
+      "why": "",
+      "tickets": "",
+      "listen": [],
+      "more": [],
+      "page": "events/22.html",
+      "category": "other",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Unravelling the Saree: Beyond the Fold",
+      "start": "2026-11-02",
+      "end": "2026-11-15",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/unravelling-the-saree-beyond-the-fold/",
+      "added": "2026-11-02",
+      "interested": false,
+      "closed": false,
+      "when": "2 Nov – 15 Nov 2026, 10:00am–5:00pm",
+      "where": "Nelson Provincial Museum, Nelson",
+      "why": "A window on how South Asian communities wear and carry identity, closing in two weeks, so go soon.",
+      "tickets": "Free for Nelson Tasman residents",
+      "listen": [],
+      "more": [],
+      "page": "events/13.html",
+      "category": "culture",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "The New Zealand Cider Festival",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/the-new-zealand-cider-festival/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Sat 14 Nov 2026, 12:00pm–7:00pm",
+      "where": "Founders Heritage Park, Nelson",
+      "why": "The Founders Park cider festival you named as the benchmark for food and drink events.",
+      "tickets": "$40 general admission",
+      "listen": [],
+      "more": [],
+      "page": "events/4.html",
+      "category": "food",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "vegetable.machine.animal, with Kina:suttsu (Japan) and Gem.FM",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/vegetable-machine-animal-wkinasuttsujapan-gem-fm/",
+      "added": "2026-11-07",
+      "interested": false,
+      "closed": false,
+      "when": "Sat 14 Nov 2026",
+      "where": "Nelson",
+      "why": "",
+      "tickets": "",
+      "listen": [],
+      "more": [],
+      "page": "events/21.html",
+      "category": "other",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Iain Campbell: Secrets from the Antarctic Dry Valleys",
+      "start": "2026-11-17",
+      "end": "2026-11-17",
+      "place": "Richmond",
+      "url": "https://www.nelsontasman.nz/events/iain-campbell-author-talk/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Tue 17 Nov 2026, 1:00pm",
+      "where": "Richmond Library, Richmond",
+      "why": "An expedition talk from someone who has actually spent decades in one of the most remote places on earth, which is the thing you said you'd go for.",
+      "tickets": "",
+      "listen": [],
+      "more": [],
+      "page": "events/8.html",
+      "category": "outdoors",
+      "international": false,
+      "trip": false,
+      "wildcard": true
+    },
+    {
+      "title": "NZ Independent Film Festival 2026",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/nz-independent-film-festival-2026/",
+      "added": "2026-11-06",
+      "interested": false,
+      "closed": false,
+      "when": "19 Nov – 21 Nov 2026, 6:00pm",
+      "where": "State Cinema, Nelson",
+      "why": "A small-town chance to see international shorts and arthouse features on a big screen, which is your kind of evening.",
+      "tickets": "$18 general admission",
+      "listen": [],
+      "more": [
+        [
+          "Festival listing — Nelson Tasman",
+          "https://www.nelsontasman.nz/events/nz-independent-film-festival-2026/"
+        ]
+      ],
+      "page": "events/20.html",
+      "category": "film",
+      "international": true,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Alchemy: Piano Duets by Debussy & Dvořák",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/alchemy-piano-duets-by-debusssy-and-dvoak/",
+      "added": "2026-11-02",
+      "interested": false,
+      "closed": false,
+      "when": "Sun 22 Nov 2026, 3:00pm",
+      "where": "NCMA Pastorius Waller Recital Theatre, Nelson",
+      "why": "An intimate piano-duet afternoon at the NCMA with a programme that mixes Debussy, Dvořák and Ghibli.",
+      "tickets": "",
+      "listen": [],
+      "more": [],
+      "page": "events/14.html",
+      "category": "classical",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Ash Grunwald",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/ash-grunwald/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Wed 25 Nov 2026, 7:30pm",
+      "where": "Nelson Centre of Musical Arts, Nelson",
+      "why": "A visiting Australian act with a strong live reputation, in the NCMA's good room.",
+      "tickets": "",
+      "listen": [
+        [
+          "Ash Grunwald's YouTube channel",
+          "https://www.youtube.com/@AshGrunwald"
+        ],
+        [
+          "Ash Grunwald on Spotify",
+          "https://open.spotify.com/search/Ash%20Grunwald"
+        ],
+        [
+          "ashgrunwald.com",
+          "https://ashgrunwald.com/"
+        ]
+      ],
+      "more": [],
+      "page": "events/10.html",
+      "category": "music",
+      "international": true,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Bob McNeill – Twelve Dreams of the River",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/bob-mcneill-2/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Fri 27 Nov 2026, 7:30pm",
+      "where": "Fairfield House, Nelson",
+      "why": "Folk with real craft in a small room, billed as one of NZ's great folk songwriters of the last two decades.",
+      "tickets": "",
+      "listen": [
+        [
+          "Bob McNeill on Bandcamp",
+          "https://bobmcneill.bandcamp.com/"
+        ],
+        [
+          "Bob McNeill on YouTube",
+          "https://www.youtube.com/results?search_query=Bob+McNeill+folk+New+Zealand"
+        ]
+      ],
+      "more": [],
+      "page": "events/9.html",
+      "category": "music",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Symphonic Odyssey: From Steppes to Sands",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/symphonic-odyssey-from-steppes-to-sands/",
+      "added": "2026-11-05",
+      "interested": false,
+      "closed": false,
+      "when": "28 Nov – 29 Nov 2026, 7:30pm",
+      "where": "Nelson Centre of Musical Arts, Nelson",
+      "why": "Scheherazade and a Saint-Saëns concerto in a single local concert is a rare chance to hear a big orchestral programme in Nelson, though it is a community orchestra.",
+      "tickets": "$42 admission, $37 early bird, $26 student",
+      "listen": [],
+      "more": [
+        [
+          "Nelson Tasman listing",
+          "https://www.nelsontasman.nz/events/symphonic-odyssey-from-steppes-to-sands/"
+        ]
+      ],
+      "page": "events/18.html",
+      "category": "classical",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Douce Ambiance",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "place": "Golden Bay",
+      "url": "https://www.nelsontasman.nz/events/douce-ambiance-3/",
+      "added": "2026-11-05",
+      "interested": false,
+      "closed": false,
+      "when": "Tue 1 Dec 2026, 2:00pm",
+      "where": "Mussel Inn, Golden Bay",
+      "why": "A small, skilled strings-led group playing Piazzolla, flamenco and Gypsy jazz in an intimate Golden Bay room fits your taste for musically unusual, well-crafted music.",
+      "tickets": "$20 advance, $25 door",
+      "listen": [],
+      "more": [
+        [
+          "Cathy Irons' website",
+          "http://www.cathy.irons.nz/"
+        ],
+        [
+          "Nelson Tasman listing",
+          "https://www.nelsontasman.nz/events/douce-ambiance-3/"
+        ]
+      ],
+      "page": "events/17.html",
+      "category": "music",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Baroque Delights – NZSO Summer Tour",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/nzso-summer-tour-2/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Sat 5 Dec 2026, 7:30pm",
+      "where": "Nelson Centre of Musical Arts, Nelson",
+      "why": "The NZSO in a small room with a top soprano is exactly the quality-first orchestral night you asked for.",
+      "tickets": "$54 adult, $50 concession",
+      "listen": [
+        [
+          "Anna Leese on YouTube",
+          "https://www.youtube.com/results?search_query=Anna+Leese+soprano"
+        ],
+        [
+          "NZSO artist page for Anna Leese",
+          "https://www.nzso.co.nz/about-us/artists/anna-leese"
+        ],
+        [
+          "Rameau's Platée suite on YouTube",
+          "https://www.youtube.com/results?search_query=Rameau+Plat%C3%A9e+suite"
+        ]
+      ],
+      "more": [],
+      "page": "events/1.html",
+      "category": "classical",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Baroque Oboe Concert Tour",
+      "start": "2027-02-17",
+      "end": "2027-02-17",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/baroque-oboe-concert-tour/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Wed 17 Feb 2027, 7:00pm",
+      "where": "Nelson Christ Church Cathedral, Nelson",
+      "why": "Visiting European baroque soloists in a cathedral acoustic rarely reach Nelson, and it is months away so you can plan.",
+      "tickets": "$50, $40 SuperGold, $20 students",
+      "listen": [
+        [
+          "Robert de Bree on YouTube",
+          "https://www.youtube.com/results?search_query=Robert+de+Bree+oboe"
+        ],
+        [
+          "Edita Keglerová harpsichord on YouTube",
+          "https://www.youtube.com/results?search_query=Edita+Keglerov%C3%A1+harpsichord"
+        ],
+        [
+          "Bach Oboe Concerto in D minor BWV 1059 on YouTube",
+          "https://www.youtube.com/results?search_query=Bach+oboe+concerto+BWV+1059"
+        ]
+      ],
+      "more": [],
+      "page": "events/2.html",
+      "category": "classical",
+      "international": true,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Nelson Fringe Festival",
+      "start": "2027-03-04",
+      "end": "2027-03-04",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/nelson-fringe-festival-3/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Thu 4 Mar 2027",
+      "where": "Tāwera – Your Art Space, Nelson",
+      "why": "Plenty of inventive small-scale performance in one place; worth diarising now and picking shows when the programme lands.",
+      "tickets": "",
+      "listen": [],
+      "more": [],
+      "page": "events/11.html",
+      "category": "theatre",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Drum Tao",
+      "start": "2027-03-19",
+      "end": "2027-03-19",
+      "place": "Nelson",
+      "url": "https://www.theatreroyalnelson.co.nz/event/drum-tao/",
+      "added": "2026-11-05",
+      "interested": false,
+      "closed": false,
+      "when": "Fri 19 Mar 2027, 7:30pm",
+      "where": "Theatre Royal, Nelson",
+      "why": "Rare international percussion theatre reaching Nelson, in the same spirit as the Machine de Cirque night you loved.",
+      "tickets": "$59.90–$89.90, Theatre Royal box office",
+      "listen": [],
+      "more": [
+        [
+          "Drum Tao official site",
+          "https://www.drum-tao.com/tao-brochure"
+        ],
+        [
+          "Drum Tao Australia tour 2026",
+          "https://www.drum-tao.com/australia-tour2026"
+        ]
+      ],
+      "page": "events/19.html",
+      "category": "music",
+      "international": true,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Multicultural Festival 2027 (30th anniversary)",
+      "start": "2027-03-21",
+      "end": "2027-03-21",
+      "place": "Nelson",
+      "url": "https://www.nelsontasman.nz/events/multicultural-festival-2027/",
+      "added": "2026-10-31",
+      "interested": false,
+      "closed": false,
+      "when": "Sun 21 Mar 2027, 11:00am",
+      "where": "Founders Heritage Park, Nelson",
+      "why": "A milestone edition of the region's main window onto other cultures' food and music.",
+      "tickets": "",
+      "listen": [],
+      "more": [],
+      "page": "events/12.html",
+      "category": "culture",
+      "international": false,
+      "trip": false,
+      "wildcard": false
+    },
+    {
+      "title": "Anna Lapwood: Cosmology (NZSO, with Max Richter)",
+      "start": "2027-08-12",
+      "end": "2027-08-12",
+      "place": "Wellington",
+      "url": "https://www.nzso.co.nz/events/anna-lapwood-cosmology",
+      "added": "2026-11-04",
+      "interested": false,
+      "closed": false,
+      "when": "Thu 12 Aug 2027, 6:30pm",
+      "where": "Wellington Town Hall, Wellington",
+      "why": "A rare international organ-and-orchestra event that is worth a trip to Wellington, with nine months' notice to plan it.",
+      "tickets": "See NZSO",
+      "listen": [],
+      "more": [
+        [
+          "NZSO — Anna Lapwood: Cosmology",
+          "https://www.nzso.co.nz/events/anna-lapwood-cosmology"
+        ],
+        [
+          "NZSO — Anna Lapwood organ recital",
+          "https://www.nzso.co.nz/events/anna-lapwood-organ-recital"
+        ],
+        [
+          "Review — Limelight (Sydney, Richter with Lapwood)",
+          "https://limelight-arts.com.au/reviews/anna-lapwood-performs-max-richter-sydney-symphony-orchestra/"
+        ],
+        [
+          "Review — A Young(ish) Perspective",
+          "https://ayoungishperspective.co.uk/2025/05/17/review-anna-lapwood/"
+        ]
+      ],
+      "page": "events/15.html",
+      "category": "classical",
+      "international": true,
+      "trip": true,
+      "wildcard": false
+    },
+    {
+      "title": "Beethoven Piano Concertos 2, 3 & 4 with Javier Perianes",
+      "start": "2027-09-25",
+      "end": "2027-09-30",
+      "place": "Wellington / Christchurch",
+      "url": "https://www.nzso.co.nz/events/beethoven-piano-concertos-2-3-and-4",
+      "added": "2026-11-04",
+      "interested": false,
+      "closed": false,
+      "when": "25 Sep – 30 Sep 2027, 7:30pm",
+      "where": "Wellington (25 & 26 Sep) / Christchurch (29 & 30 Sep), Wellington / Christchurch",
+      "why": "A complete Beethoven concerto cycle from a top international pianist fits your orchestral-and-piano taste, and Christchurch is the nearer trip.",
+      "tickets": "",
+      "listen": [],
+      "more": [
+        [
+          "NZSO — Concertos 2, 3 & 4",
+          "https://www.nzso.co.nz/events/beethoven-piano-concertos-2-3-and-4"
+        ],
+        [
+          "NZSO — Concertos 1 & 5",
+          "https://www.nzso.co.nz/events/beethoven-piano-concertos-1-and-5"
+        ]
+      ],
+      "page": "events/16.html",
+      "category": "classical",
+      "international": true,
+      "trip": true,
+      "wildcard": false
+    }
+  ]
+}

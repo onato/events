@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//whats-happening//EN
+X-WR-CALNAME:What's Happening
+BEGIN:VEVENT
+UID:6@whats-happening
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261119
+SUMMARY:Tāhae: Stolen from the Museum
+LOCATION:Tāwera – Your Art Space\, Nelson
+DESCRIPTION:An exhibition with a real idea about who owns and gets to touch cultural treasures\, not just a pretty display.\nhttps://www.nelsontasman.nz/events/tahae-stolen-from-the-museum/
+URL:https://www.nelsontasman.nz/events/tahae-stolen-from-the-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:22@whats-happening
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20270125
+SUMMARY:Lisa Walker: That Furrows the Brow (artist talk 14 Nov)
+LOCATION:Nelson
+DESCRIPTION:https://thesuter.org.nz/whats-on/
+URL:https://thesuter.org.nz/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:13@whats-happening
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261116
+SUMMARY:Unravelling the Saree: Beyond the Fold
+LOCATION:Nelson Provincial Museum\, Nelson
+DESCRIPTION:A window on how South Asian communities wear and carry identity\, closing in two weeks\, so go soon.\nhttps://www.nelsontasman.nz/events/unravelling-the-saree-beyond-the-fold/
+URL:https://www.nelsontasman.nz/events/unravelling-the-saree-beyond-the-fold/
+END:VEVENT
+BEGIN:VEVENT
+UID:4@whats-happening
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:The New Zealand Cider Festival
+LOCATION:Founders Heritage Park\, Nelson
+DESCRIPTION:The Founders Park cider festival you named as the benchmark for food and drink events.\nhttps://www.nelsontasman.nz/events/the-new-zealand-cider-festival/
+URL:https://www.nelsontasman.nz/events/the-new-zealand-cider-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:21@whats-happening
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:vegetable.machine.animal\, with Kina:suttsu (Japan) and Gem.FM
+LOCATION:Nelson
+DESCRIPTION:https://www.nelsontasman.nz/events/vegetable-machine-animal-wkinasuttsujapan-gem-fm/
+URL:https://www.nelsontasman.nz/events/vegetable-machine-animal-wkinasuttsujapan-gem-fm/
+END:VEVENT
+BEGIN:VEVENT
+UID:8@whats-happening
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Iain Campbell: Secrets from the Antarctic Dry Valleys
+LOCATION:Richmond Library\, Richmond
+DESCRIPTION:An expedition talk from someone who has actually spent decades in one of the most remote places on earth\, which is the thing you said you'd go for.\nhttps://www.nelsontasman.nz/events/iain-campbell-author-talk/
+URL:https://www.nelsontasman.nz/events/iain-campbell-author-talk/
+END:VEVENT
+BEGIN:VEVENT
+UID:20@whats-happening
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+SUMMARY:NZ Independent Film Festival 2026
+LOCATION:State Cinema\, Nelson
+DESCRIPTION:A small-town chance to see international shorts and arthouse features on a big screen\, which is your kind of evening.\nhttps://www.nelsontasman.nz/events/nz-independent-film-festival-2026/
+URL:https://www.nelsontasman.nz/events/nz-independent-film-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:14@whats-happening
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Alchemy: Piano Duets by Debussy & Dvořák
+LOCATION:NCMA Pastorius Waller Recital Theatre\, Nelson
+DESCRIPTION:An intimate piano-duet afternoon at the NCMA with a programme that mixes Debussy\, Dvořák and Ghibli.\nhttps://www.nelsontasman.nz/events/alchemy-piano-duets-by-debusssy-and-dvoak/
+URL:https://www.nelsontasman.nz/events/alchemy-piano-duets-by-debusssy-and-dvoak/
+END:VEVENT
+BEGIN:VEVENT
+UID:10@whats-happening
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Ash Grunwald
+LOCATION:Nelson Centre of Musical Arts\, Nelson
+DESCRIPTION:A visiting Australian act with a strong live reputation\, in the NCMA's good room.\nhttps://www.nelsontasman.nz/events/ash-grunwald/
+URL:https://www.nelsontasman.nz/events/ash-grunwald/
+END:VEVENT
+BEGIN:VEVENT
+UID:9@whats-happening
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Bob McNeill – Twelve Dreams of the River
+LOCATION:Fairfield House\, Nelson
+DESCRIPTION:Folk with real craft in a small room\, billed as one of NZ's great folk songwriters of the last two decades.\nhttps://www.nelsontasman.nz/events/bob-mcneill-2/
+URL:https://www.nelsontasman.nz/events/bob-mcneill-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:18@whats-happening
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Symphonic Odyssey: From Steppes to Sands
+LOCATION:Nelson Centre of Musical Arts\, Nelson
+DESCRIPTION:Scheherazade and a Saint-Saëns concerto in a single local concert is a rare chance to hear a big orchestral programme in Nelson\, though it is a community orchestra.\nhttps://www.nelsontasman.nz/events/symphonic-odyssey-from-steppes-to-sands/
+URL:https://www.nelsontasman.nz/events/symphonic-odyssey-from-steppes-to-sands/
+END:VEVENT
+BEGIN:VEVENT
+UID:17@whats-happening
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Douce Ambiance
+LOCATION:Mussel Inn\, Golden Bay
+DESCRIPTION:A small\, skilled strings-led group playing Piazzolla\, flamenco and Gypsy jazz in an intimate Golden Bay room fits your taste for musically unusual\, well-crafted music.\nhttps://www.nelsontasman.nz/events/douce-ambiance-3/
+URL:https://www.nelsontasman.nz/events/douce-ambiance-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:1@whats-happening
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Baroque Delights – NZSO Summer Tour
+LOCATION:Nelson Centre of Musical Arts\, Nelson
+DESCRIPTION:The NZSO in a small room with a top soprano is exactly the quality-first orchestral night you asked for.\nhttps://www.nelsontasman.nz/events/nzso-summer-tour-2/
+URL:https://www.nelsontasman.nz/events/nzso-summer-tour-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2@whats-happening
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Baroque Oboe Concert Tour
+LOCATION:Nelson Christ Church Cathedral\, Nelson
+DESCRIPTION:Visiting European baroque soloists in a cathedral acoustic rarely reach Nelson\, and it is months away so you can plan.\nhttps://www.nelsontasman.nz/events/baroque-oboe-concert-tour/
+URL:https://www.nelsontasman.nz/events/baroque-oboe-concert-tour/
+END:VEVENT
+BEGIN:VEVENT
+UID:11@whats-happening
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Nelson Fringe Festival
+LOCATION:Tāwera – Your Art Space\, Nelson
+DESCRIPTION:Plenty of inventive small-scale performance in one place\; worth diarising now and picking shows when the programme lands.\nhttps://www.nelsontasman.nz/events/nelson-fringe-festival-3/
+URL:https://www.nelsontasman.nz/events/nelson-fringe-festival-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:19@whats-happening
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Drum Tao
+LOCATION:Theatre Royal\, Nelson
+DESCRIPTION:Rare international percussion theatre reaching Nelson\, in the same spirit as the Machine de Cirque night you loved.\nhttps://www.theatreroyalnelson.co.nz/event/drum-tao/
+URL:https://www.theatreroyalnelson.co.nz/event/drum-tao/
+END:VEVENT
+BEGIN:VEVENT
+UID:12@whats-happening
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Multicultural Festival 2027 (30th anniversary)
+LOCATION:Founders Heritage Park\, Nelson
+DESCRIPTION:A milestone edition of the region's main window onto other cultures' food and music.\nhttps://www.nelsontasman.nz/events/multicultural-festival-2027/
+URL:https://www.nelsontasman.nz/events/multicultural-festival-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:15@whats-happening
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Anna Lapwood: Cosmology (NZSO\, with Max Richter)
+LOCATION:Wellington Town Hall\, Wellington
+DESCRIPTION:A rare international organ-and-orchestra event that is worth a trip to Wellington\, with nine months' notice to plan it.\nhttps://www.nzso.co.nz/events/anna-lapwood-cosmology
+URL:https://www.nzso.co.nz/events/anna-lapwood-cosmology
+END:VEVENT
+BEGIN:VEVENT
+UID:16@whats-happening
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271001
+SUMMARY:Beethoven Piano Concertos 2\, 3 & 4 with Javier Perianes
+LOCATION:Wellington (25 & 26 Sep) / Christchurch (29 & 30 Sep)\, Wellington / Christchurch
+DESCRIPTION:A complete Beethoven concerto cycle from a top international pianist fits your orchestral-and-piano taste\, and Christchurch is the nearer trip.\nhttps://www.nzso.co.nz/events/beethoven-piano-concertos-2-3-and-4
+URL:https://www.nzso.co.nz/events/beethoven-piano-concertos-2-3-and-4
+END:VEVENT
+END:VCALENDAR
